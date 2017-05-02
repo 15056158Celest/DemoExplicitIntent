@@ -8,4 +8,19 @@
     tools:context="sg.edu.rp.c346.demoexplicitintent.MainActivity"
     android:weightSum="1">
 
+    <TextView
+        android:id="@+id/textViewSuperman"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Superman"
+        android:textColor="@android:color/black"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textViewBatman"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Batman"
+        android:textColor="@android:color/black"
+        android:textSize="18sp" />
 </LinearLayout>
